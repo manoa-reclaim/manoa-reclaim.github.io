@@ -12,8 +12,8 @@
 * [Continuous Integration](#continuous-integration)
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
-* [Team](#team)
 -->
+* [Team](#team)
 
 ## Overview
 
