@@ -340,4 +340,4 @@ There are a number of simple enhancements you can make to the system to become b
 
 ## Team
 
-Manoa Reclaim is designed, implemented, and maintained by Royce Cornwell, Cohen Ruport, Kai Sutton, Kaito Tateno and Austin, Villanueva.
+Manoa Reclaim is designed, implemented, and maintained by Royce Cornwell, Cohen Ruport, Kai Sutton, Kaito Tateno and Austin Villanueva.
