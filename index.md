@@ -20,25 +20,9 @@
 
 ## Overview
 
-The Manoa Reclaim  web app simplifies returning lost items like wallets and phones to their owners. It features lists of lost and found items, including their locations. Users can post lost items and browse these lists. Found items placed in specific areas, such as the Campus Center and ID Office, can have messaging disabled to streamline the recovery process. The web app contains various technologies useful to ICS software engineering students, including:
-
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+The Manoa Reclaim web app simplifies returning lost items like wallets and phones to their owners. It features lists of lost and found items, including their locations. Users can post lost items and browse these lists. Found items placed in specific areas, such as the Campus Center and ID Office, can have messaging disabled to streamline the recovery process. Manoa Reclaim allows people to quickly find items lost on campus and allows people to easily turn in items they find.
 
 
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
-* Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
-* Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
 
 ## User Guide
 
