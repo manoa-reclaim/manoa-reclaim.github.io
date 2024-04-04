@@ -346,4 +346,4 @@ There are a number of simple enhancements you can make to the system to become b
 
 Manoa Reclaim is designed, implemented, and maintained by Royce Cornwell, Cohen Ruport, Kai Sutton, Kaito Tateno and Austin Villanueva.
 
-Team Contract: https://docs.google.com/document/d/1ZnShNnfNbNHlyba_1sJoq1aYW9pQSs4oBMMc9CqqCX0/edit
+[Team Contract]([https://www.meteor.com/](https://docs.google.com/document/d/1ZnShNnfNbNHlyba_1sJoq1aYW9pQSs4oBMMc9CqqCX0/edit))
