@@ -4,7 +4,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-  
+* [Deployment](#Deployment)
 <!--
 
 * [Community Feedback](#community-feedback)
@@ -17,6 +17,10 @@
 -->
 
 * [Team](#team)
+
+## Deployment
+
+[Check out our website](http://143.110.155.76/)
 
 ## Overview
 
