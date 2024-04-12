@@ -7,16 +7,9 @@
 * [Deployment](#Deployment)
 * [Projects](#project-pages)
 * [Team](#team)
+* [Mockup pages](#mockup-pages)
 
 ## Project Pages
-
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/f43d1772-e0f8-4c04-a51f-4e332d37c478" alt="Manoa Reclaim Landing Page Mockup" width="480">
-
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/08706e52-d2d9-49b2-bd86-4b96b8349399" alt="Manoa Reclaim Register Lost Item Mockup" width="480">
-
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/3c5e6660-9c2e-4cb0-949b-0acdb3c88987" alt="Manoa Reclaim Item Search Mockup" width="480">
-
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/1f189c40-133b-4a77-8601-6a549e692adb" alt="Image 1-4" width="480">
 
 [Milestone 1](https://github.com/orgs/manoa-reclaim/projects/1)  
 [Milestone 2](https://github.com/orgs/manoa-reclaim/projects/2)
@@ -31,7 +24,15 @@
 
 The Manoa Reclaim web app simplifies returning lost items like wallets and phones to their owners. It features lists of lost and found items, including their locations. Users can post lost items and browse these lists. Found items placed in specific areas, such as the Campus Center and ID Office, can have messaging disabled to streamline the recovery process. Manoa Reclaim allows people to quickly find items lost on campus and allows people to easily turn in items they find.
 
+## Mockup Pages
 
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/f43d1772-e0f8-4c04-a51f-4e332d37c478" alt="Manoa Reclaim Landing Page Mockup" width="480">
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/08706e52-d2d9-49b2-bd86-4b96b8349399" alt="Manoa Reclaim Register Lost Item Mockup" width="480">
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/3c5e6660-9c2e-4cb0-949b-0acdb3c88987" alt="Manoa Reclaim Item Search Mockup" width="480">
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/1f189c40-133b-4a77-8601-6a549e692adb" alt="Image 1-4" width="480">
 
 ## User Guide
 
