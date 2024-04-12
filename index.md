@@ -5,19 +5,13 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Deployment](#Deployment)
-  
-<!--
-
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-
--->
-
+* [Projects](#project-pages)
 * [Team](#team)
+
+## Project Pages
+
+[Milestone 1](https://github.com/orgs/manoa-reclaim/projects/1)  
+[Milestone 2](https://github.com/orgs/manoa-reclaim/projects/2)
 
 ## Deployment
 
