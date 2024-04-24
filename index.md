@@ -42,26 +42,9 @@ This section provides a walkthrough of the Manoa Reclaim user interface and its 
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+You land on landing page that looks like next image.
 
 ![](images/landing-page.png)
-
-### Index pages (Projects, Profiles, Interests)
-
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
-
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
-
-![](images/profiles-page.png)
-
-The Projects page shows all the currently defined Projects and their associated Profiles and Interests:
-
-![](images/projects-page.png)
-
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
-
-![](images/interests-page.png)
-
 
 ### Sign in and sign up
 
@@ -69,26 +52,32 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 ![](images/signin-page.png)
 
-Alternatively, you can select "Sign up" to go to the following page and register as a new user:
+Alternatively, you can select "Sign up" to go to the following page and register as a new user. When registering on this page, we kindly request that you use a University of Hawaii email address. Unfortunately, we can only accept UH email addresses and cannot accommodate other email domains.
 
 ![](images/signup-page.png)
 
 ### Home page
 
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
+After logging in, you are taken to the home page, which presents a form where you can register or edit your lost items and show the list of these items:
 
 ![](images/home-page.png)
 
-### Add Project page
+### register lost item page
 
-Once you are logged in, you can define new projects with the Add Project page:
+Once you are logged in, you will find the form to register your lost item conveniently located at the navigation bar on top. You can register your lost item with some informations such as the name or type of the item, the date and location where it was lost, your contact email for when it is found, and any additional descriptive details about the item.
 
-![](images/add-project-page.png)
+![](images/register-item-page.png)
 
 
-### Filter page
+### Edit page
 
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
+![](images/filter-page.png)
+
+### List item page
+
+![](images/filter-page.png)
+
+### Search item page
 
 ![](images/filter-page.png)
 
