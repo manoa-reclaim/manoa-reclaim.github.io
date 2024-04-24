@@ -7,6 +7,7 @@
 * [Deployment](#Deployment)
 * [Projects](#project-pages)
 * [Team](#team)
+* [Continuous Integration](#Continuous-Integration)
 * [Mockup pages](#mockup-pages)
 
 ## Project Pages
@@ -330,6 +331,11 @@ There are a number of simple enhancements you can make to the system to become b
 * The testcafe acceptance tests only test successful form submissions. Add a test in which you fill out a form incorrectly (perhaps omitting a required field) and then test to ensure that the form does not submit successfully.
 
 -->
+### Continuous Integration
+
+Using GitHub actions we check all merge commits to our main codebase using tests we made.
+
+![](images/ContinuousIntegrationBadge.png)
 
 ## Team
 
