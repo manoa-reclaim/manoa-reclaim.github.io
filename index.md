@@ -8,7 +8,7 @@
 * [Deployment](#Deployment)
 * [Projects](#project-pages)
 * [Team](#team)
-* [Continuous Integration](#Continuous-Integration)
+* [Continuous Integration](#continuous-integration)
 * [Mockup pages](#mockup-pages)
 
 ## Project Pages
