@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Deployment](#Deployment)
 * [Projects](#project-pages)
 * [Team](#team)
@@ -85,6 +86,50 @@ You can show the list of your lost items in List item page
 You can use the Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
 
 ![](images/search-lost-item-page.png)
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Then, view the [template](https://github.com/ics-software-engineering/meteor-application-template-react), and click the “Use this template” button. Complete the dialog box to create a new private repository called “my-manoa-reclaim” that you own that is initialized with this template’s files.
+
+![Screenshot 2024-04-23 211755](https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/0c33edfd-06c7-42c9-80c8-dff4b42598a6)
+
+From your newly created repository, and click the “Code” button and “Open with GitHub Desktop” to clone your new GitHub repo to your local file system.
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/aa928f4d-e6f4-4649-bb46-008c547cc0f8" alt="Screenshot 2024-04-23 211949" width="480" height="">
+
+Now in GitHub Desktop, click “Open in IntelliJ” to create and open the project in IntelliJ.
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/c018af63-b827-480e-8f69-483637e8d725" alt="Screenshot 2024-04-23 212111" width="480" height="">
+
+Then, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/72bcbf7a-bb28-4b9e-96c8-42effc21f38e" alt="Screenshot 2024-04-23 214440" width="180" height="">
+
+### Running The System
+
+Once the libraries are installed, you can run the application by invoking the “start” script in the package.json file:
+
+Run the system with:
+
+meteor npm run start
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/53b25284-be76-482d-a458-5a7eda6ff70f" alt="Screenshot 2024-04-23 213946" width="480" height="">
+
+### Viewing the app
+
+Go to https://localhost:3000 to see the app. If you’ve done these steps correctly, the application template should now appear.
+
+<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/2f745b69-5704-4481-b2e1-fe1d2eba7307" alt="Screenshot 2024-04-23 214233"  width="1080" height="">
+
+### Setting up IntelliJ and ESLint
+
+Make sure that ESLint is configured correctly. Open a Javascript file such as imports/startup/client/startup.jsx. To test that ESLint is working, add 3-4 blank lines to the bottom of the file. An ESLint error should now be displayed in the right margin in red. Now delete them, and a green checkmark should reappear.
 
 <!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
 
