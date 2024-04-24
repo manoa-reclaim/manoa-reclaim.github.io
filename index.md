@@ -16,7 +16,7 @@
 
 ## Deployment
 
-<img width="720" alt="Deployment" src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/cb82eb96-7fb2-4f38-9e64-b6635ae7228e">
+![](images/landing-page-manoa-reclaim.png)
 
 [Check out our website](http://143.110.155.76/)
 
