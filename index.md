@@ -12,7 +12,9 @@
 ## Project Pages
 
 [Milestone 1](https://github.com/orgs/manoa-reclaim/projects/1)  
+
 [Milestone 2](https://github.com/orgs/manoa-reclaim/projects/2)
+
 [Milestone 3](https://github.com/orgs/manoa-reclaim/projects/3)
 
 ## Deployment
