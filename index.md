@@ -38,8 +38,6 @@ The Manoa Reclaim web app simplifies returning lost items like wallets and phone
 
 This section provides a walkthrough of the Manoa Reclaim user interface and its capabilities.
 
-<!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
-
 ### Landing Page
 
 You land on landing page that looks like next image.
@@ -68,18 +66,25 @@ Once you are logged in, you will find the form to register your lost item conven
 
 ![](images/register-item-page.png)
 
-
 ### Edit page
+
+if you want to change the information of your lost item, you can edit from edit page.
 
 ![](images/filter-page.png)
 
 ### List item page
 
+You can show the list of your lost items in List item page 
+
 ![](images/filter-page.png)
 
 ### Search item page
 
+you can use Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
+
 ![](images/filter-page.png)
+
+<!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
 
 ## Community Feedback
 
