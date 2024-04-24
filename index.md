@@ -18,7 +18,7 @@
 
 ![](images/landing-page-manoa-reclaim.png)
 
-[Check out our website](http://143.110.155.76/)
+[Check out our website](https://manoareclaim.online/)
 
 ## Overview
 
