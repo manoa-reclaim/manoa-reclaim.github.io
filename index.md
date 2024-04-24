@@ -95,19 +95,17 @@ This section provides information of interest to Meteor developers wishing to us
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Then, view the [template](https://github.com/ics-software-engineering/meteor-application-template-react), and click the “Use this template” button. Complete the dialog box to create a new private repository called “my-manoa-reclaim” that you own that is initialized with this template’s files.
+Then, view the [Project Github](https://github.com/manoa-reclaim/Manoa-reclaim-app), and click the “Code” button. 
 
-![Screenshot 2024-04-23 211755](https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/0c33edfd-06c7-42c9-80c8-dff4b42598a6)
+Click the “Code” button and “Download Zip” to download the project to your local system.
 
-From your newly created repository, and click the “Code” button and “Open with GitHub Desktop” to clone your new GitHub repo to your local file system.
+![](images/github.png)
 
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/aa928f4d-e6f4-4649-bb46-008c547cc0f8" alt="Screenshot 2024-04-23 211949" width="480" height="">
-
-Now in GitHub Desktop, click “Open in IntelliJ” to create and open the project in IntelliJ.
+Now unzip the file and use it to create a new project in your IDE of choice.
 
 <img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/c018af63-b827-480e-8f69-483637e8d725" alt="Screenshot 2024-04-23 212111" width="480" height="">
 
-Then, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+Then, cd into the app/ directory of your local copy of the project, and install third party libraries with:
 
 <img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/72bcbf7a-bb28-4b9e-96c8-42effc21f38e" alt="Screenshot 2024-04-23 214440" width="180" height="">
 
@@ -123,9 +121,9 @@ meteor npm run start
 
 ### Viewing the app
 
-Go to https://localhost:3000 to see the app. If you’ve done these steps correctly, the application template should now appear.
+Go to https://localhost:3000 to see the app. If you’ve done these steps correctly, the application should now appear.
 
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/2f745b69-5704-4481-b2e1-fe1d2eba7307" alt="Screenshot 2024-04-23 214233"  width="1080" height="">
+![](images/app.png)
 
 ### Setting up IntelliJ and ESLint
 
