@@ -70,8 +70,6 @@ Once you are logged in, you will find the form to register your lost item conven
 
 if you want to change the information of your lost item, you can edit from edit page.
 
-![](images/filter-page.png)
-
 ### List item page
 
 You can show the list of your lost items in List item page 
