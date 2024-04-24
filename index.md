@@ -40,31 +40,31 @@ This section provides a walkthrough of the Manoa Reclaim user interface and its 
 
 ### Landing Page
 
-You land on landing page that looks like next image.
+Here is the landing page for Manoa Reclaim.
 
-![](images/landing-page.png)
+![](images/landing-page-manoa-reclaim.png)
 
-### Sign in and sign up
+### Sign In and Sign Up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/signin-page.png)
+![](images/signin-page-manoa-reclaim.png)
 
-Alternatively, you can select "Sign up" to go to the following page and register as a new user. When registering on this page, we kindly request that you use a University of Hawaii email address. Unfortunately, we can only accept UH email addresses and cannot accommodate other email domains.
+Alternatively, you can select "Sign up" to go to the following page and register as a new user. When registering on this page, we kindly request that you use a University of Hawaii email address. Only UH email addresses are accepted and cannot accommodate other email domains.
 
-![](images/signup-page.png)
+![](images/signup-page-manoa-reclaim.png)
 
 ### Home page
 
 After logging in, you are taken to the home page, which presents a form where you can register or edit your lost items and show the list of these items:
 
-![](images/home-page.png)
+![](images/landing-login-page-manoa-reclaim.png)
 
-### register lost item page
+### Register Lost Item Page
 
 Once you are logged in, you will find the form to register your lost item conveniently located at the navigation bar on top. You can register your lost item with some informations such as the name or type of the item, the date and location where it was lost, your contact email for when it is found, and any additional descriptive details about the item.
 
-![](images/register-item-page.png)
+![](images/register-lost-items-page.png)
 
 ### Edit page
 
@@ -76,13 +76,13 @@ if you want to change the information of your lost item, you can edit from edit 
 
 You can show the list of your lost items in List item page 
 
-![](images/filter-page.png)
+![](list-item-user-page.png)
 
 ### Search item page
 
 you can use Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
 
-![](images/filter-page.png)
+![](search-lost-item-page.png)
 
 <!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
 
