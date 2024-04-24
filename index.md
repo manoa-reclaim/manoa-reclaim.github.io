@@ -103,8 +103,6 @@ Click the “Code” button and “Download Zip” to download the project to yo
 
 Now unzip the file and use it to create a new project in your IDE of choice.
 
-<img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/c018af63-b827-480e-8f69-483637e8d725" alt="Screenshot 2024-04-23 212111" width="480" height="">
-
 Then, cd into the app/ directory of your local copy of the project, and install third party libraries with:
 
 <img src="https://github.com/manoa-reclaim/manoa-reclaim.github.io/assets/156386620/72bcbf7a-bb28-4b9e-96c8-42effc21f38e" alt="Screenshot 2024-04-23 214440" width="180" height="">
