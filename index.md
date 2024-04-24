@@ -78,7 +78,7 @@ You can show the list of your lost items in List item page
 
 ### Search item page
 
-you can use Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
+You can use the Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
 
 ![](search-lost-item-page.png)
 
