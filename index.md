@@ -377,11 +377,13 @@ There are a number of simple enhancements you can make to the system to become b
 
 -->
 
+
 ## Continuous Integration
 
 Using GitHub actions we check all merge commits to our main codebase using tests we made.
 
 ![](images/ContinuousIntegrationBadge.png)
+
 
 ## Team
 
