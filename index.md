@@ -124,7 +124,7 @@ meteor npm run start
 
 Go to https://localhost:3000 to see the app. If you’ve done these steps correctly, the application should now appear.
 
-![](images/app.png)
+![](images/Landing.png)
 
 ### Data model
 
