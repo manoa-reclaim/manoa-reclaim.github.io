@@ -149,9 +149,38 @@ The Manoa Reclaim data model consists of four "primary" collections (name of los
      - Projects related to the Manoa Reclaim system
    - Description: This collection may store information about different projects or initiatives within the Manoa Reclaim system.
 
+## Initialization
+
+The [config](https://github.com/manoa-reclaim/Manoa-reclaim-app/tree/main/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/manoa-reclaim/Manoa-reclaim-app/blob/main/config/settings.development.json).
+
+The settings.development.json file contains a field called "loadAssetsFile". It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded.  The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+
 ### Setting up IntelliJ and ESLint
 
 Make sure that ESLint is configured correctly. Open a Javascript file such as imports/startup/client/startup.jsx. To test that ESLint is working, add 3-4 blank lines to the bottom of the file. An ESLint error should now be displayed in the right margin in red. Now delete them, and a green checkmark should reappear.
+
+#### ESLint
+
+Manoa reclaim includes a [.eslintrc](https://github.com/manoa-reclaim/Manoa-reclaim-app/blob/main/app/.eslintrc.js) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+meteor npm run lint
+```
+
+Here is sample output indicating that no ESLint errors were detected:
+
+```
+$ meteor npm run lint
+
+> meteor-application-template-react@ lint /Users/user1/GitHub/Manoa-reclaim-app/app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+```
+
+ESLint should run without generating any errors.
+
+It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
 ### Application Design
 
