@@ -5,7 +5,8 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
-* [Deployment](#Deployment)
+* [Deployment Guide](#deployment-guide)
+* [Deployment](#deployment)
 * [Projects](#project-pages)
 * [Team](#team)
 * [Continuous Integration](#continuous-integration)
@@ -188,6 +189,30 @@ $
 ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
+## Deployment Guide
+
+This section provides instructions for deploying the Manoa Reclaim application to a production environment.
+
+### Deployment Platforms
+
+Manoa Reclaim can be deployed to various hosting platforms, including Heroku, AWS (Amazon Web Services), DigitalOcean, and Galaxy (Meteor's hosting platform). Consider factors like scalability, pricing, and integration capabilities when selecting a platform. But in this case we are using [DigitalOcean](https://try.digitalocean.com/cloud/?utm_campaign=amer_brand_kw_en_cpc&utm_adgroup=Misspellings&_keyword=digitalocean%3A&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad_source=1&gclid=Cj0KCQjwxeyxBhC7ARIsAC7dS3-zVp3qkRL4k3Pz_toEb6PQPB8l5M6Lik4Hy92sg2Wf3jyQamXDuTQaAnR5EALw_wcB).
+
+### Deployment Preparation
+
+Before deploying Manoa Reclaim, ensure that your local development environment is set up and the application is running smoothly. Verify that all dependencies are installed and up to date. Review and update any environment-specific configurations, such as database connections and API keys, to ensure smooth operation in the production environment.
+
+### Deployment Methods
+
+Choose a deployment method that best suits your workflow and platform requirements. Git-based deployments allow you to push changes to your deployment platform automatically. Containerization (Docker) enables you to package the application and its dependencies into containers for consistent deployment across environments. Alternatively, you can manually upload application files to the hosting platform via FTP or SSH.
+
+### Database Setup
+
+If your application relies on a database, ensure the database is configured correctly for the production environment. This may involve setting up database instances, configuring access permissions, and migrating or seeding data.
+
+### Testing in Production
+
+Thoroughly test the deployed application in the production environment to ensure functionality and performance. Conduct both manual and automated tests to validate deployment success.
 
 ### Application Design
 
