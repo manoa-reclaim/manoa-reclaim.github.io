@@ -128,7 +128,7 @@ Go to https://localhost:3000 to see the app. If you’ve done these steps correc
 
 ### Data model
 
-The Manoa Reclaim data model consists of four "primary" collections (name of lost item, date item was lost, location of lost item, and description of lost item). To understand this design choice, consider the situation where you want to specify the location, date, and description of the lost item associated with a name of the lost item.
+The Manoa Reclaim data model consists of two "primary" collections Lost Items and Users. To understand this design choice, consider the situation where you want to specify the location, date, and description of the lost item associated with a name of the lost item.
 
 1. **Lost Item Collection:**
    - Attributes:
@@ -138,18 +138,13 @@ The Manoa Reclaim data model consists of four "primary" collections (name of los
      - Description of lost item
    - Description: This collection stores information about each lost item, including its name, when it was lost, where it was lost, and a description.
 
-2. **Profile Collection:**
+2. **Users Collection:**
    - Attributes:
      - User profiles
        - User name
        - Email
        - Other relevant details
    - Description: Profiles represent users who interact with the system, such as those who report lost items or search for them.
-
-3. **Project Collection:**
-   - Attributes:
-     - Projects related to the Manoa Reclaim system
-   - Description: This collection may store information about different projects or initiatives within the Manoa Reclaim system.
 
 ## Initialization
 
