@@ -10,6 +10,7 @@
 * [Team](#team)
 * [Continuous Integration](#continuous-integration)
 * [Mockup pages](#mockup-pages)
+* [Feedback](#community-feedback)
 
 ## Project Pages
 
@@ -123,9 +124,42 @@ Go to https://localhost:3000 to see the app. If you’ve done these steps correc
 
 ![](images/app.png)
 
+### Data model
+
+The Manoa Reclaim data model consists of four "primary" collections (name of lost item, date item was lost, location of lost item, and description of lost item). To understand this design choice, consider the situation where you want to specify the location, date, and description of the lost item associated with a name of the lost item.
+
+1. **Lost Item Collection:**
+   - Attributes:
+     - Name of the lost item
+     - Date item was lost
+     - Location of lost item
+     - Description of lost item
+   - Description: This collection stores information about each lost item, including its name, when it was lost, where it was lost, and a description.
+
+2. **Profile Collection:**
+   - Attributes:
+     - User profiles
+       - User name
+       - Email
+       - Other relevant details
+   - Description: Profiles represent users who interact with the system, such as those who report lost items or search for them.
+
+3. **Project Collection:**
+   - Attributes:
+     - Projects related to the Manoa Reclaim system
+   - Description: This collection may store information about different projects or initiatives within the Manoa Reclaim system.
+
 ### Setting up IntelliJ and ESLint
 
 Make sure that ESLint is configured correctly. Open a Javascript file such as imports/startup/client/startup.jsx. To test that ESLint is working, add 3-4 blank lines to the bottom of the file. An ESLint error should now be displayed in the right margin in red. Now delete them, and a green checkmark should reappear.
+
+### Application Design
+
+Manoa Reclaim is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos documentation at those sites to better acquaint yourself with the basic application design and form processing in Manoa Reclaim.
+
+## Community Feedback
+
+We are interested in your experience using Manoa Reclaim!  If you would like, please take a couple of minutes to fill out the [Manoa Reclaim Feedback Form](https://forms.gle/ENMoUUXgzrRJesTP6). It contains only four short questions and will help us understand how to improve the system.
 
 <!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
 
