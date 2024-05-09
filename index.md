@@ -214,7 +214,23 @@ Manoa Reclaim is based upon [meteor-application-template-react](https://ics-soft
 
 ## Community Feedback
 
-We are interested in your experience using Manoa Reclaim!  If you would like, please take a couple of minutes to fill out the [Manoa Reclaim Feedback Form](https://forms.gle/ENMoUUXgzrRJesTP6). It contains only four short questions and will help us understand how to improve the system.
+We are interested in your experience using Manoa Reclaim!  If you would like, please take a couple of minutes to fill out the [Manoa Reclaim Feedback Form](https://forms.gle/ENMoUUXgzrRJesTP6). It contains only four short questions and will help us understand how to improve the system. Thank you!
+
+_______________________________________________________________________
+
+<p>Question: How was your experience using our website?</p>
+<p>From our handfull of respondants, the majority of uers rated our website with an average overall experience with a few exceptions, some of which stated a rating of "okay" and another rating it "very good"<p>
+
+
+<p>Question: Suggestions on what we should add to our website?</p>
+<p>A few respondants stated the importance of being able to view pictures, while another would have liked to have a more interesting and creative design and layout to the website.<p>
+
+
+<p>Question: Were there any bugs encountered while using our website?</p>
+<p>A few users expressed confusion on the initial account registration and sign-in step of the website, stating a few steps seemed to have needed repeated action. Other users expressed no such issues.</p>
+
+<p>Question: Other concerns or questions?</p>
+<p>Responses varied from a lack of images, to the justification and alignment of text, and also issues signing in/registering</p>
 
 <!-- READ HERE: THE FOLLOWING IS AN EXAMPLE FROM BOWFOLIOS AND IS COMMENTED OUT UNTIL MORE UPDATES ARE MADE
 
