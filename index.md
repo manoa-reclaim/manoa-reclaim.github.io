@@ -90,12 +90,6 @@ if you want to change the information of your lost item, you can edit from edit 
 
 ![](images/Edit.png)
 
-### Search item page
-
-You can use the Search page if you want to find your lost Item as soon as possible. Enter the keyword you want to search for in the space provided and a list will appear and you may be able to find what you are looking for.
-
-![](images/Search.png)
-
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
